@@ -1,2 +1,2 @@
-# skills-introduction-to-github
+# skillee
 Exercise: Introduction to Github
